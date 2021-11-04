@@ -1,0 +1,211 @@
+/* SLAB */
+@font-face {
+    font-family: 'UnimedSlab2020-Bd';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-Bd.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-BdCd';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-BdCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-BdCdIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-BdCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-BdIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-BdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-Bk';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-Bk.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-BkCd';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-BkCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-BkCdIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-BkCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-BkIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-BkIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-Blk';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-Blk.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-BlkIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-BlkIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-Lg';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-Lg.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-LgCd';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-LgCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-LgCdIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-LgCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-LgIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-LgIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-Rg';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-Rg.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-RgCd';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-RgCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-RgCdIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-RgCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-RgIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-RgIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-Sb';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-Sb.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-SbCd';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-SbCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-SbCdIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-SbCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-SbIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-SbIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-Xb';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-Xb.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-XbCd';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-XbCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-XbCdIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-XbCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSlab2020-XbIt';
+    src: url('../assets/FONTS/UnimedSlab2020/UnimedSlab2020-XbIt.otf');
+}
+
+/* SANS */
+@font-face {
+    font-family: 'UnimedSans2020-Bd';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-Bd.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-BdCd';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-BdCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-BdCdIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-BdCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-BdIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-BdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-Bk';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-Bk.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-BkCd';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-BkCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-BkCdIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-BkCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-BkIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-BkIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-Blk';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-Blk.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-BlkIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-BlkIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-Lg';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-Lg.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-LgCd';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-LgCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-LgCdIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-LgCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-LgIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-LgIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-Rg';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-Rg.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-RgCd';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-RgCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-RgCdIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-RgCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-RgIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-RgIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-Sb';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-Sb.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-SbCd';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-SbCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-SbCdIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-SbCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-SbIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-SbIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-Xb';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-Xb.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-XbCd';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-XbCd.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-XbCdIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-XbCdIt.otf');
+}
+@font-face {
+    font-family: 'UnimedSans2020-XdIt';
+    src: url('../assets/FONTS/UnimedSans2020/UnimedSans2020-XdIt.otf');
+}

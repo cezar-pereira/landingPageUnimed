@@ -1,0 +1,118 @@
+:root {
+  /* Colors */
+    --accordion-cinza: #525259;
+}
+.accordion {
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 8px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    transition: 0.4s;
+    margin-top: 8%;
+}
+.panel {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+}
+.panel-advantage{
+  height: 600px;
+}
+.accordion-title-panel{
+  font-family: 'UnimedSlab2020-XbIt';
+  align-items: center;
+  color: var(--verde-institucional);
+  font-size: 2rem;
+}
+.accordion-subtitle-panel{
+  font-size: 1.3rem;
+  font-family: 'UnimedSlab2020-XbIt';
+  color: var(--accordion-cinza);
+}
+.container-accordion-subtitle-panel{
+  display: flex;
+  align-items: flex-start;
+  padding: 3.5% 0 1.5% 1%;
+}
+/* .container-accordion-subtitle-panel >:last-child{
+  padding-top: 1%;
+} */
+.accordion-text-body-panel{
+  font-family: 'UnimedSans2020-Bk';
+  color: var(--accordion-cinza);
+  font-size: 1.5rem;
+  padding-left: 6%;
+}
+
+@media only screen and (min-width: 481px) {
+  .accordion-withdrawn{
+    padding-right: 8%;
+    height: 23px;
+    width: 23px;
+    background: url('../assets/IMAGES/accordion/expandirMenu.svg') no-repeat;
+  }
+  .accordion-expanded{
+    padding-right: 8%;
+    height: 23px;
+    width: 23px;
+    background: url('../assets/IMAGES/accordion/menuExpandido.svg') no-repeat;
+  }
+}
+
+
+/*
+    position: relative;
+    top: 4px;
+    border-radius: 12px;
+    height: 6px;
+    margin: 0 25%;
+    background-color: var(--verde-claro);
+*/
+@media only screen and (max-width: 480px){
+  .panel {
+    padding: 0px;
+  }
+  .button-accordion-mobile {
+    color: var(--branco);
+    font-size: 2rem;
+    justify-content: center;
+    background-color: var(--verde-claro);
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+  }
+  .button-accordion-mobile-BG-less {
+    position: relative;
+    top: 30px;
+    color: var(--branco);
+    font-size: 2rem;
+    justify-content: center;
+    background-color: var(--verde-claro);
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+  }
+  .button-accordion-mobile-BG-less:before{
+    content: "\142F";
+  }
+  .button-accordion-mobile:before{
+    content: "\142F";
+  }
+  .container-accordion-subtitle-panel{
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    text-align: center;
+  }
+  .accordion-text-body-panel{
+    padding-left: 0;
+    
+    margin: 4px 0 18px 0;
+  }
+  .accordion-shortage{
+    text-align: start;
+  }
+}
